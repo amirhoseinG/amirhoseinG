@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirhosein Gohari 
 - 👀 I’m interested in GAME and CODING
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently learning Full-stack development
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me instagram:@amireynn , telegram:@thiirty
 
