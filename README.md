@@ -1,12 +1,12 @@
 <div>
 
-<img src="./images/aboutme.png" width="420" align="left" />
+<img src="./images/aboutme.png" width="420" align="center" />
 <br/>
-<img src="./images/loading.gif" width="300" align="right"/>
+<img src="./images/loading.gif" width="400" align="right"/>
 </div>
 <br/>
 <br/>
-
+<br/>
 
 
 - Name **Amirhosein Gohari**
