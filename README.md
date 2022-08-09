@@ -2,8 +2,7 @@
 
 <img src="./images/aboutme.png" width="420" align="center" />
 
-<br/>
-<img src="./images/laptop.png" width="400" align="right"/>
+
 
 <br/>
 
