@@ -22,12 +22,12 @@
 <br/>
 <br/>
 <br/>
-- 📗 [***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot)
+- [***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot)
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-<img src="./images/loading.gif" width="420" align="center" />
+<img src="./images/loading.gif" width="420" align="left" />
 </div>
