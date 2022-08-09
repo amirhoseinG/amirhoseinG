@@ -1,7 +1,7 @@
 <div>
 
 <img src="./images/aboutme.png" width="420" align="center" />
-<img src="./images/coffe.png" width="200"  />
+
 <br/>
 <img src="./images/laptop.png" width="400" align="right"/>
 </div>
