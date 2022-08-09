@@ -30,5 +30,5 @@
 <br/>
 <br/>
 <br/>
-<img src="./images/loading.gif" width="420" align="left" />
+<img src="./images/loading.gif" width="320" align="left" />
 </div>
