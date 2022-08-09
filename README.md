@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <br/>
-- 📗 [***Fatsran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) <br/>
+- 📗 [***FASTRAN***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) <br/>
 fastran is a wonderful translator on the telegram platform!!!
 
 </div>
