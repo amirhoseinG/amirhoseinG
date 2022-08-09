@@ -22,7 +22,7 @@
 <br/>
 <br/>
 <br/>
-- [***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot)
+- https://github.com/amirhoseinG/FATSRAN-telegram-bot
 <br/>
 <br/>
 <br/>
