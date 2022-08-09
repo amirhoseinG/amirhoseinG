@@ -2,6 +2,7 @@
 
 <img src="./images/aboutme.png" width="420" align="center" />
 <br/>
+<img src="./images/coffe.png" width="420" align="right" />
 <img src="./images/laptop.png" width="400" align="right"/>
 </div>
 <br/>
@@ -19,4 +20,3 @@
 
 - Have experience with **Photoshop** & **Premiere**
 
-<img src="./images/coffe.png" width="420" align="center" />
