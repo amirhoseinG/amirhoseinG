@@ -6,8 +6,6 @@
 <img src="./images/laptop.png" width="400" align="right"/>
 
 <br/>
-<br/>
-<br/>
 
 
 - Name **Amirhosein Gohari**
@@ -25,7 +23,12 @@
 <br/>
 <br/>
 <br/>
-- 📗 [***FASTRAN***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) <br/>
-fastran is a wonderful translator on the telegram platform!!!
-
+- 📗 [***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="./images/loading.gif" width="420" align="center" />
 </div>
