@@ -2,7 +2,7 @@
 
 <img src="./images/aboutme.png" width="420" align="center" />
 <br/>
-<img src="./images/loading.gif" width="400" align="right"/>
+<img src="./images/code.gif" width="400" align="right"/>
 </div>
 <br/>
 <br/>
