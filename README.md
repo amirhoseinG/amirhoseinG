@@ -5,7 +5,7 @@
 
 - Live in **IRAN, Tehran**
 
-- Studying [***Computer And AI***](https://smkn4palembang.sch.id/)
+- Studying ***Computer And [AI***]([https://en.wikipedia.org/wiki/Artificial_intelligence])
 
 - Good with **Python** 
 
