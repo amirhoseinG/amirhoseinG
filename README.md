@@ -21,6 +21,7 @@
 <img src="./images/repositories.png" width="420" align="center" />
 <br/>
 <br/>
+- fastran is a wonderful translator on the telegram platform.
 <br/>
 - https://github.com/amirhoseinG/FATSRAN-telegram-bot
 <br/>
