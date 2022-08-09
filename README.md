@@ -20,3 +20,5 @@
 
 - Have experience with **Photoshop** & **Premiere**
 
+<img src="./images/repositories.png" width="420" align="center" />
+</div>
