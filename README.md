@@ -24,6 +24,9 @@
 - fastran is a wonderful translator on the telegram platform.
 <br/>
 - https://github.com/amirhoseinG/FATSRAN-telegram-bot
+
+- Enigma machine 
+- https://github.com/amirhoseinG/Enigma-machine
 <br/>
 <br/>
 <br/>
