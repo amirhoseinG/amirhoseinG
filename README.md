@@ -4,7 +4,7 @@
 
 <br/>
 <img src="./images/laptop.png" width="400" align="right"/>
-</div>
+
 <br/>
 <br/>
 <br/>
@@ -20,8 +20,12 @@
 
 - Have experience with **Photoshop** & **Premiere**
 <br/>
-<div>
+
 <img src="./images/repositories.png" width="420" align="center" />
+
+<br/>
+<br>
+- 📗 [***Fatsran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) <br/>
+fastran is a wonderful translator on the telegram platform!!!
+
 </div>
-  
-- 📗 [***Fatsran***](https://github.com/Eilaluth/Ayano) <br/>
