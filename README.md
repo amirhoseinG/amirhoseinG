@@ -19,6 +19,9 @@
 - Good with **Python** 
 
 - Have experience with **Photoshop** & **Premiere**
-
+<br/>
+<div>
 <img src="./images/repositories.png" width="420" align="center" />
 </div>
+  
+- 📗 [***Fatsran***](https://github.com/Eilaluth/Ayano) <br/>
