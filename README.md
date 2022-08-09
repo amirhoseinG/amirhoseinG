@@ -18,3 +18,5 @@
 - Good with **Python** 
 
 - Have experience with **Photoshop** & **Premiere**
+
+<img src="./images/coffe.png" width="420" align="center" />
