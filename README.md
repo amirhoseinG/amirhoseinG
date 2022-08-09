@@ -1,3 +1,3 @@
 <div>
-<img src="./images/aboutme.png" width="500" align="left" />
+<img src="./images/aboutme.png" width="420" align="left" />
 </div>
