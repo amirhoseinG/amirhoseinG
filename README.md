@@ -23,10 +23,10 @@
 <br/>
 
 
-[***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) is a wonderful translator on the telegram platform.
+1. [***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) is a wonderful translator on the telegram platform.
 <br/>
 <br/>
-The [Enigma machine](https://github.com/amirhoseinG/Enigma-machine) is a cipher device developed .
+2. The [Enigma machine](https://github.com/amirhoseinG/Enigma-machine) is a cipher device developed .
 <br/>
 <br/>
 <br/>
