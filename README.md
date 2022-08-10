@@ -1,11 +1,13 @@
 <div>
-
-<img src="./images/aboutme.png" width="420" align="center" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/amirhoseinG?color=2B7A0B&logoColor=2B7A0B&style=for-the-badge">
+<br/>
+<br/>
+<br/>
+<img src="./images/aboutme.png" width="320" align="center" />
 
 
 
 <br/>
-
 
 - Name **Amirhosein Gohari**
 
@@ -18,7 +20,7 @@
 - Have experience with **Photoshop** & **Premiere**
 <br/>
 
-<img src="./images/repositories.png" width="420" align="center" />
+<img src="./images/repositories.png" width="320" align="center" />
 <br/>
 <br/>
 
