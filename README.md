@@ -21,12 +21,12 @@
 <img src="./images/repositories.png" width="420" align="center" />
 <br/>
 <br/>
-- fastran is a wonderful translator on the telegram platform.
-<br/>
-- https://github.com/amirhoseinG/FATSRAN-telegram-bot
 
-- Enigma machine 
-- https://github.com/amirhoseinG/Enigma-machine
+
+[***Fastran***](https://github.com/amirhoseinG/FATSRAN-telegram-bot) is a wonderful translator on the telegram platform.
+<br/>
+<br/>
+The [Enigma machine](https://github.com/amirhoseinG/Enigma-machine) is a cipher device developed .
 <br/>
 <br/>
 <br/>
