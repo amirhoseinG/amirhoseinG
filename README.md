@@ -17,7 +17,7 @@
 
 - Good with **Python** 
 
-- Have experience with **Photoshop** & **Premiere**
+
 <br/>
 
 <img src="./images/repositories.png" width="320" align="center" />
